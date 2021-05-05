@@ -1,2 +1,2 @@
-# Neural_Additive_Models_Walkthrough
+# Neural Additive Models
 Fair_ML Course Project
